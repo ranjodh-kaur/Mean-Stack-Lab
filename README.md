@@ -1,6 +1,21 @@
 Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.github.io/Mean-Stack-Lab/)
 
-## Welcome to GitHub Pages
+## Commands used while push through terminal
+ git init
+ git remote add origin https://github.com/ranjodh-kaur/Mean-Stack-Lab.git
+ git fetch origin
+ git merge origin/main
+ git add .
+ git commit -m "added"
+ git push -u origin main
+ git branch -M main
+ git push -u origin main
+ 
+ history 
+ This command is used to view all command typed by you on terminal
+ 
+ history > file
+ This command is used to create the commands in the file
 
 You can use the [editor on GitHub](https://github.com/ranjodh-kaur/Mean-Stack-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
