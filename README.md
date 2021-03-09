@@ -2,13 +2,21 @@ Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.
 
 ## Commands used while push through terminal
  git init
+ 
  git remote add origin https://github.com/ranjodh-kaur/Mean-Stack-Lab.git
+ 
  git fetch origin
+ 
  git merge origin/main
+ 
  git add .
+ 
  git commit -m "added"
+ 
  git push -u origin main
+ 
  git branch -M main
+ 
  git push -u origin main
  
  history 
