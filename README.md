@@ -1,6 +1,6 @@
 Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.github.io/Mean-Stack-Lab/)
 
-## Commands used while push through terminal
+## Commands used while doing push through terminal
  git init
  
  git remote add origin https://github.com/ranjodh-kaur/Mean-Stack-Lab.git
