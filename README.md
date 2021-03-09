@@ -20,6 +20,8 @@ Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.
             This command is used to view all command typed by you on terminal
      history > file
             This command is used to create the commands in the file
+     To see the branch:
+            git branch --all
 ```
 You can use the [editor on GitHub](https://github.com/ranjodh-kaur/Mean-Stack-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
