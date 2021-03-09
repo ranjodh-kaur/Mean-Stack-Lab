@@ -13,12 +13,13 @@ Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.
  git branch -M main
  git push -u origin main
  
- **Additional command for your knowledge**
- _______________________________________________
- history 
-  This command is used to view all command typed by you on terminal
- history > file
-  This command is used to create the commands in the file
+ 
+ #### Additional command for your knowledge
+ 
+     history 
+            This command is used to view all command typed by you on terminal
+     history > file
+            This command is used to create the commands in the file
 ```
 You can use the [editor on GitHub](https://github.com/ranjodh-kaur/Mean-Stack-Lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
