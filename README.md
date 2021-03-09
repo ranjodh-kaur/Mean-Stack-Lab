@@ -13,9 +13,9 @@ Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.
  git branch -M main
  git push -u origin main
  
- 
+ ```
  #### Additional command for your knowledge
- 
+ ```
      history 
             This command is used to view all command typed by you on terminal
      history > file
