@@ -3,6 +3,10 @@ Web-Site: [https://ranjodh-kaur.github.io/Mean-Stack-Lab/](https://ranjodh-kaur.
 ## Commands used while doing push through terminal
  git init
  
+ git config --global user.email "TYPE_YOUR_EMAIL"
+ git config --global user.name "TYPE_YOUR_USER_NAME_HERE"
+ 
+ 
  git remote add origin https://github.com/ranjodh-kaur/Mean-Stack-Lab.git
  
  git fetch origin
